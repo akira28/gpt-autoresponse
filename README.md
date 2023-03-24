@@ -1,3 +1,23 @@
+### Informal response
+
+```
+Hey, thanks a lot for getting in touch! Just to give you a heads up, this is an automatic response. I'm always keen to hear about exciting new opportunities out there. As a software engineer, you can imagine that I get a ton of LinkedIn messages and emails from recruiters, which is awesome, but it also means I have to be a bit selective about who I chat with.
+
+Before we jump into anything, could you give me a bit more info about the job, such as the company name, job description, whether it's remote, interview process, and total compensation? Sorting through all the different opportunities can be pretty overwhelming without some specifics.
+
+Don't get me wrong, I really appreciate that you reached out to me, and I'd love to keep talking, but it's hard to know what's spam and what's legit without more details. If you can fill me in on those bits, then I'm all ears! Thanks again, and I'm looking forward to hearing from you.
+```
+
+### Informal response just asking salary and interview process
+
+```
+Hey, thanks a lot for getting in touch! Just to give you a heads up, this is an automatic response. I'm always keen to hear about exciting new opportunities out there. As a software engineer, you can imagine that I get a ton of LinkedIn messages and emails from recruiters, which is awesome, but it also means I have to be a bit selective about who I chat with.
+
+Before we jump into anything, could you give me a bit more info about the job, such as the interview process, and total compensation? Sorting through all the different opportunities can be pretty overwhelming without some specifics.
+
+Don't get me wrong, I really appreciate that you reached out to me, and I'd love to keep talking, but it's hard to know what's spam and what's legit without more details. If you can fill me in on those bits, then I'm all ears! Thanks again, and I'm looking forward to hearing from you.
+```
+
 ### Complete autoresponse
 
 ```
